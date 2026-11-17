@@ -1,0 +1,6 @@
+{
+  "name": "PyCraft Python 互動教學",
+  "description": "具備瀏覽器即時執行、單步變數視覺化追蹤與自動化任務驗證的繁體中文 Python 互動學習平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
